@@ -1,0 +1,101 @@
+*{
+    background-color: #16252d;
+    color: #e8e2e2;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+
+
+h2 {
+      font-size: 50px;
+      text-align: center;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      color: white;
+      font-weight: bold;
+      text-decoration: underline;
+      background-color: #1a3542; /* Darker background color */
+      padding: 20px; /* Increased padding */
+      margin-top: 50px; /* Added margin for spacing */
+      border-radius: 10px; /* Rounded corners */
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  }
+  
+
+
+#h4 {
+      font-size: 30px;
+      display: inline-block;
+      padding-left: 70px;
+      overflow: hidden;
+}
+
+P {
+      font-size: 18px;
+      overflow: hidden;
+      padding-left: 30px;
+      padding-right: 30px;
+}
+
+#special_para {
+      font-size: 20px;
+}
+
+.my_class {
+      font-size: 28px;
+      text-decoration: dotted;
+}
+
+#Types {
+       font-size: 23px;
+       padding-left: 50px;
+       
+}
+
+.scroll-bg {
+     background-color: White;
+     width: 500px;
+     margin: 10% auto;
+     padding: 8px;
+     border-radius: 10px;
+}
+
+.scroll-div {
+     width: 478px;
+     height: 200px;
+     overflow: hidden;
+     overflow-y: scroll;
+}
+
+.scroll-object {
+     color: whitesmoke;
+     font-family: cursive;
+     padding: 10px;
+}
+
+
+footer {
+      background-color: #032030;   /* Dark blue background */
+      color: #ffffff;              /* White text color */
+      padding: 20px;                 /* Padding inside the footer */
+      text-align: center;            /* Center align text */
+      margin-top: 20px;              /* Margin from top */
+      border-radius: 10px;           /* Rounded corners */
+  }
+  
+  #foot-greet {
+      font-size: 24px;               /* Font size */
+      font-weight: bold;             /* Font weight */
+      background-color: #ffffff;   /* White background */
+      color: #000000;              /* Black text color */
+      border: 2px solid #ffffff;   /* White border */
+      padding: 10px;                 /* Padding inside the box */
+      display: inline-block;         /* Display as inline-block to wrap content */
+      border-radius: 30px;           /* Rounded corners */
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow effect */
+  }
+  
+  
+  
+  
+  
